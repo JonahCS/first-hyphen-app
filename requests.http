@@ -1,0 +1,5 @@
+### HTTP request to hit the web server
+
+GET http://localhost:3000 HTTP/1.1
+
+###
